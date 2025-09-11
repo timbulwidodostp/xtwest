@@ -1,7 +1,7 @@
 # xtwest
 Westerlund error-correction-based (ECM) panel cointegration tests Use xtwest With STATA 19
 
-Olah Data Semarang
+https://www.youtube.com/watch?v=hWiaqMTLBEo
 
 WA : +6285227746673 (085227746673)
 
